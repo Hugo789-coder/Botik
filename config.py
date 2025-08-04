@@ -2,7 +2,7 @@ import os
 
 # Bot configuration
 BOT_TOKEN = os.getenv("BOT_TOKEN",
-                      "8366607921:AAGfoLBzDW4x7UBZp6lbOt3SiUima0UTrGY")
+                      "AAGfoLBzDW4x7UBZp6lbOt3SiUima0UTrGY")
 
 
 # Support for multiple owners - add both owner IDs
